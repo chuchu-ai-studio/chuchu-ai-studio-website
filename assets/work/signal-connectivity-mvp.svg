@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Signal and device connectivity</title>
+  <rect width="512" height="512" rx="96" fill="#15263e"/>
+  <rect x="118" y="112" width="172" height="292" rx="32" fill="#203a57" stroke="#e5edf5" stroke-width="12"/>
+  <path d="M176 139h56M189 375h30" stroke="#e5edf5" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="204" cy="264" r="13" fill="#b4d5eb"/>
+  <g fill="none" stroke="#b4d5eb" stroke-width="12" stroke-linecap="round">
+    <path d="M240 229a50 50 0 0 1 0 70M260 204a84 84 0 0 1 0 120"/>
+    <path d="M327 105a78 78 0 0 1 78 78M330 143a38 38 0 0 1 38 38"/>
+  </g>
+  <circle cx="365" cy="334" r="52" fill="#e5edf5"/>
+  <path d="m349 312 33 43-17 15v-72l17 15-33 43" fill="none" stroke="#203a57" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -4,7 +4,7 @@ Official website for **CHUCHU AI STUDIO — Mobile MVP & AI Product Development,
 
 ## Purpose
 
-This site introduces CHUCHU AI STUDIO as a lean, professional product-development studio serving founders, startups, professionals, and companies internationally. It presents the studio's services, delivery process, selected product work, founder, and approach to product development.
+This site introduces CHUCHU AI STUDIO as a lean, professional product-development studio serving founders, startups, professionals, and companies internationally. It presents the studio's services, delivery process, selected product work, studio focus, and approach to product development.
 
 ## Website structure
 
@@ -13,7 +13,7 @@ This site introduces CHUCHU AI STUDIO as a lean, professional product-developmen
 - Introductory USD project investment starting points
 - Five-step product delivery process
 - Selected product work
-- Studio and founder introduction
+- Studio introduction and focus
 - Product-development principles
 - Project inquiry call to action
 

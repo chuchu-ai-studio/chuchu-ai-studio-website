@@ -145,11 +145,11 @@ h1 { font-size: clamp(3.5rem, 6vw, 6.6rem); max-width: 790px; margin-bottom: 30p
 .about-grid { display: grid; grid-template-columns: 1.2fr .72fr; gap: 120px; align-items: center; }
 .about-copy > p:not(.eyebrow):not(.pull-quote) { max-width: 680px; color: var(--muted); font-size: 1.03rem; }
 .pull-quote { margin-top: 35px; padding-left: 20px; border-left: 2px solid var(--cyan); font: 500 1.25rem "Manrope"; }
-.founder-card { padding: 42px; border: 1px solid #d8e9ee; border-radius: var(--radius); background: #ffffff; box-shadow: 0 16px 45px rgba(15,23,42,.06); }
-.founder-mark { width: 82px; height: 82px; margin-bottom: 40px; display: grid; place-items: center; border: 1px solid rgba(94,218,232,.35); border-radius: 50%; background: rgba(73,179,201,.08); color: var(--cyan); font: 600 1.25rem "Manrope"; }
-.founder-card h3 { font-size: 1.8rem; margin: 6px 0; }
-.founder-role { color: #374151 !important; margin-top: 0 !important; }
-.founder-card > p:last-child { color: var(--muted); margin-top: 30px; }
+.studio-card { padding: 42px; border: 1px solid #d8e9ee; border-radius: var(--radius); background: #ffffff; box-shadow: 0 16px 45px rgba(15,23,42,.06); }
+.studio-mark { width: 82px; height: 82px; margin-bottom: 40px; display: grid; place-items: center; border: 1px solid rgba(94,218,232,.35); border-radius: 50%; background: rgba(73,179,201,.08); color: var(--cyan); font: 600 1.25rem "Manrope"; }
+.studio-card h3 { font-size: 1.8rem; margin: 6px 0; }
+.studio-role { color: #374151 !important; margin-top: 0 !important; }
+.studio-card > p:last-child { color: var(--muted); margin-top: 30px; }
 
 .principles-grid { display: grid; grid-template-columns: repeat(5, 1fr); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
 .principles-grid article { min-height: 260px; padding: 27px 23px; border-right: 1px solid var(--line); background: #ffffff; }
