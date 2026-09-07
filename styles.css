@@ -256,3 +256,26 @@ h1 { font-size: clamp(3.5rem, 6vw, 6.6rem); max-width: 790px; margin-bottom: 30p
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
   .reveal { opacity: 1; transform: none; }
 }
+
+/* Project inquiry form — scoped to the contact section. */
+.contact-card > div:first-child, .inquiry-form { grid-column: 1 / -1; min-width: 0; }
+.inquiry-form { width: 100%; }
+.inquiry-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.inquiry-field { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.inquiry-wide { grid-column: 1 / -1; }
+.inquiry-field label { color: var(--text); font-weight: 600; font-size: .95rem; }
+.inquiry-field label span, .inquiry-field small { color: var(--muted); font-weight: 400; }
+.inquiry-field input, .inquiry-field select, .inquiry-field textarea { width: 100%; min-width: 0; max-width: 100%; padding: 13px 14px; border: 1px solid #b8c8d0; border-radius: 10px; background: #ffffff; color: var(--text); font: inherit; font-size: 16px; }
+.inquiry-field select { text-overflow: ellipsis; }
+.inquiry-field textarea { resize: vertical; min-height: 160px; }
+.inquiry-form :is(input, select, textarea, button):focus-visible { outline: 3px solid var(--cyan); outline-offset: 3px; }
+.inquiry-form .form-guidance { font-size: .85rem; margin: 0 0 24px; }
+.inquiry-form #inquiry-privacy { margin: 24px 0; }
+.inquiry-form button:disabled { opacity: .65; cursor: wait; }
+.contact-card .inquiry-feedback { margin: 20px 0 0; padding: 16px; border-radius: 10px; border: 1px solid var(--line); }
+.contact-card .inquiry-feedback[data-state="success"] { color: #166534; background: #f0f9f2; }
+.contact-card .inquiry-feedback[data-state="error"] { color: #9f2929; background: #fff3f3; }
+@media (max-width: 820px) {
+  .inquiry-fields { grid-template-columns: 1fr; }
+  .inquiry-form .button { width: 100%; }
+}

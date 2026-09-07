@@ -1,3 +1,45 @@
+// Register inquiry handling before unrelated page behavior.
+const inquiryForm = document.querySelector('[data-inquiry-form]');
+if (inquiryForm) {
+  const submitButton = inquiryForm.querySelector('button[type="submit"]');
+  const feedback = inquiryForm.querySelector('[data-inquiry-status]');
+  const showFeedback = (state, message) => {
+    feedback.dataset.state = state;
+    feedback.textContent = message;
+    feedback.hidden = false;
+    feedback.focus();
+  };
+  inquiryForm.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    if (submitButton.disabled || !inquiryForm.reportValidity()) return;
+    const errorMessage = 'We couldn’t send your inquiry. Please try again or email hello@chuchuaistudio.com.';
+    feedback.hidden = true;
+    submitButton.disabled = true;
+    submitButton.textContent = 'Sending…';
+    inquiryForm.setAttribute('aria-busy', 'true');
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 20000);
+    try {
+      const response = await fetch(inquiryForm.action, {
+        method: 'POST',
+        body: new FormData(inquiryForm),
+        headers: { Accept: 'application/json' },
+        signal: controller.signal,
+      });
+      if (!response.ok) throw new Error('Inquiry submission failed');
+      inquiryForm.reset();
+      showFeedback('success', 'Thanks — your project inquiry has been sent. CHUCHU AI STUDIO will review it and reply by email.');
+    } catch {
+      showFeedback('error', errorMessage);
+    } finally {
+      clearTimeout(timeout);
+      submitButton.disabled = false;
+      submitButton.textContent = 'Send Project Inquiry';
+      inquiryForm.removeAttribute('aria-busy');
+    }
+  });
+}
+
 const header = document.querySelector('[data-header]');
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('.site-nav');
