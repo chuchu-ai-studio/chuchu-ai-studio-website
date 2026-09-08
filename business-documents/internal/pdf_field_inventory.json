@@ -1,0 +1,2103 @@
+{
+  "business-documents/templates/CHUCHU_AI_STUDIO_Master_Service_Agreement_Fillable.pdf": {
+    "sha256": "976df35fa1b3af68e0c807e79c1bcd608ccd373ca55ccdb4ea57afc7171958b4",
+    "fields": [
+      {
+        "page": 1,
+        "name": "agreement_no",
+        "type": "Text",
+        "rect": [
+          127.55909729003906,
+          116.220458984375,
+          286.2991943359375,
+          133.2283935546875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "effective_date",
+        "type": "Text",
+        "rect": [
+          377.0079040527344,
+          116.220458984375,
+          535.7479858398438,
+          133.2283935546875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "jurisdiction",
+        "type": "Text",
+        "rect": [
+          127.55909729003906,
+          150.23626708984375,
+          286.2991943359375,
+          167.24407958984375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "currency",
+        "type": "Text",
+        "rect": [
+          377.0079040527344,
+          150.23626708984375,
+          535.7479858398438,
+          167.24407958984375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "provider_legal",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          223.93695068359375,
+          496.06298828125,
+          240.94488525390625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "provider_address",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          252.283447265625,
+          496.06298828125,
+          269.2913818359375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "provider_email",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          280.62994384765625,
+          496.06298828125,
+          297.63775634765625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_company",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          331.653564453125,
+          496.06298828125,
+          348.6614685058594
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_rep",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          359.9999694824219,
+          496.06298828125,
+          377.00787353515625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_title",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          388.3464660644531,
+          496.06298828125,
+          405.3543701171875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_address",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          416.69287109375,
+          496.06298828125,
+          433.7007751464844
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_email",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          445.03936767578125,
+          496.06298828125,
+          462.0472717285156
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_phone",
+        "type": "Text",
+        "rect": [
+          170.07870483398438,
+          473.3858642578125,
+          496.06298828125,
+          490.3936767578125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "studio_name",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          150.23626708984375,
+          490.3937072753906,
+          167.24407958984375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "studio_title",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          181.4173583984375,
+          490.3937072753906,
+          198.4251708984375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "studio_email",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          212.59844970703125,
+          490.3937072753906,
+          229.60626220703125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "studio_signature",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          243.779541015625,
+          490.3937072753906,
+          260.787353515625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "studio_date",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          274.960693359375,
+          490.3937072753906,
+          291.96844482421875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "client_name",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          345.8267822265625,
+          490.3937072753906,
+          362.83465576171875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "client_title",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          377.00787353515625,
+          490.3937072753906,
+          394.0157775878906
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "client_email",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          408.18896484375,
+          490.3937072753906,
+          425.1968688964844
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "client_signature",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          439.37005615234375,
+          490.3937072753906,
+          456.3779602050781
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 6,
+        "name": "client_date",
+        "type": "Text",
+        "rect": [
+          178.58270263671875,
+          470.5511779785156,
+          490.3937072753906,
+          487.55908203125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "project_name",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          121.8897705078125,
+          490.3937072753906,
+          138.89764404296875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "project_type",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          153.07086181640625,
+          490.3937072753906,
+          170.07879638671875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "platforms",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          184.251953125,
+          490.3937072753906,
+          201.2598876953125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "project_objective",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          215.43304443359375,
+          490.3937072753906,
+          266.4566650390625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "included_features",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          280.62994384765625,
+          490.3937072753906,
+          348.6614685058594
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "excluded_features",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          362.83465576171875,
+          490.3937072753906,
+          413.8582763671875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "deliverables",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          428.0314636230469,
+          490.3937072753906,
+          484.724365234375
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "start_date",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          498.8976745605469,
+          490.3937072753906,
+          515.9054565429688
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "delivery_date",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          530.0787353515625,
+          490.3937072753906,
+          547.086669921875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "total_fee",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          561.2598876953125,
+          490.3937072753906,
+          578.2677612304688
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "payment_currency",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          592.4409790039062,
+          490.3937072753906,
+          609.4488525390625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "deposit_30",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          623.6220703125,
+          490.3937072753906,
+          640.6300048828125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "development_30",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          654.8031616210938,
+          490.3937072753906,
+          671.81103515625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "beta_25",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          685.9842529296875,
+          490.3937072753906,
+          702.9921875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 7,
+        "name": "handover_15",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          717.1653442382812,
+          490.3937072753906,
+          734.1732788085938
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 8,
+        "name": "additional_terms",
+        "type": "Text",
+        "rect": [
+          192.7559051513672,
+          121.8897705078125,
+          490.3937072753906,
+          172.91339111328125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      }
+    ]
+  },
+  "business-documents/templates/CHUCHU_AI_STUDIO_Client_Project_Inquiry_Form.pdf": {
+    "sha256": "65da2db1f495264dcb39ffc279df2dd99d4621c7814220e0386a1ed94e7e2c9d",
+    "fields": [
+      {
+        "page": 1,
+        "name": "client_name",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          156.47247314453125,
+          203.14959716796875,
+          173.4803466796875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "company_name",
+        "type": "Text",
+        "rect": [
+          217.3227996826172,
+          156.47247314453125,
+          377.9527893066406,
+          173.4803466796875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "job_title",
+        "type": "Text",
+        "rect": [
+          392.1260070800781,
+          156.47247314453125,
+          552.7559204101562,
+          173.4803466796875
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_email",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          198.9921875,
+          290.55120849609375,
+          216.0
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_phone",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          198.9921875,
+          552.7559204101562,
+          216.0
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "svc_poc",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          261.63775634765625,
+          54.425201416015625,
+          273.54327392578125
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_mvp",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          288.0,
+          54.425201416015625,
+          299.90545654296875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_prod",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          314.3621826171875,
+          54.425201416015625,
+          326.26776123046875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_ai",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          340.724365234375,
+          54.425201416015625,
+          352.6299743652344
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_custom",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          367.086669921875,
+          54.425201416015625,
+          378.9921569824219
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_unsure",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          393.4488830566406,
+          54.425201416015625,
+          405.3543701171875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "product_summary",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          469.9842834472656,
+          552.7559204101562,
+          509.6692810058594
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "problem_users",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          532.346435546875,
+          552.7559204101562,
+          572.031494140625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "platform_ios",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          623.9054565429688,
+          54.425201416015625,
+          635.81103515625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_android",
+        "type": "CheckBox",
+        "rect": [
+          164.40939331054688,
+          623.9054565429688,
+          176.31500244140625,
+          635.81103515625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_web",
+        "type": "CheckBox",
+        "rect": [
+          269.2912902832031,
+          623.9054565429688,
+          281.1968994140625,
+          635.81103515625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_unsure",
+        "type": "CheckBox",
+        "rect": [
+          360.0,
+          623.9054565429688,
+          371.9054870605469,
+          635.81103515625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_accounts",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          669.2598876953125,
+          54.425201416015625,
+          681.1654052734375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_payments",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          669.2598876953125,
+          224.50390625,
+          681.1654052734375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_ai",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          669.2598876953125,
+          394.58270263671875,
+          681.1654052734375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_voice",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          689.1023559570312,
+          54.425201416015625,
+          701.0078735351562
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_location",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          689.1023559570312,
+          224.50390625,
+          701.0078735351562
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_media",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          689.1023559570312,
+          394.58270263671875,
+          701.0078735351562
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_notifications",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          708.9448852539062,
+          54.425201416015625,
+          720.850341796875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_bluetooth",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          708.9448852539062,
+          224.50390625,
+          720.850341796875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_offline",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          708.9448852539062,
+          394.58270263671875,
+          720.850341796875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_admin",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          728.787353515625,
+          54.425201416015625,
+          740.69287109375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_api",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          728.787353515625,
+          224.50390625,
+          740.69287109375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_analytics",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          728.787353515625,
+          394.58270263671875,
+          740.69287109375
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_other",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          748.6299438476562,
+          54.425201416015625,
+          760.5354614257812
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_other_text",
+        "type": "Text",
+        "rect": [
+          141.7322998046875,
+          749.1968383789062,
+          552.7559204101562,
+          766.2047119140625
+        ],
+        "font": "Helvetica",
+        "size": 7.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "must_haves",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          161.57476806640625,
+          552.7559204101562,
+          209.7637939453125
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "asset_logo",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          233.2913818359375,
+          54.425201416015625,
+          245.1968994140625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_design",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          233.2913818359375,
+          224.50390625,
+          245.1968994140625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_content",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          233.2913818359375,
+          394.58270263671875,
+          245.1968994140625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_domain",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          253.13385009765625,
+          54.425201416015625,
+          265.03936767578125
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_apple",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          253.13385009765625,
+          224.50390625,
+          265.03936767578125
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_google",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          253.13385009765625,
+          394.58270263671875,
+          265.03936767578125
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_api",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          272.97637939453125,
+          54.425201416015625,
+          284.88189697265625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_backend",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          272.97637939453125,
+          224.50390625,
+          284.88189697265625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_none",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          272.97637939453125,
+          394.58270263671875,
+          284.88189697265625
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "ai_technical_goal",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          345.8267822265625,
+          552.7559204101562,
+          379.8425598144531
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "sensitive_yes",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          403.37005615234375,
+          54.425201416015625,
+          415.27557373046875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_no",
+        "type": "CheckBox",
+        "rect": [
+          113.38580322265625,
+          403.37005615234375,
+          125.29129791259766,
+          415.27557373046875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_unsure",
+        "type": "CheckBox",
+        "rect": [
+          178.58270263671875,
+          403.37005615234375,
+          190.4882049560547,
+          415.27557373046875
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_notes",
+        "type": "Text",
+        "rect": [
+          269.2912902832031,
+          401.10235595703125,
+          552.7559204101562,
+          420.94488525390625
+        ],
+        "font": "Helvetica",
+        "size": 7.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "target_date",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          482.4566650390625,
+          290.55120849609375,
+          499.4645690917969
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "budget_range",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          482.4566650390625,
+          552.7559204101562,
+          499.4645690917969
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "budget_approved",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          530.92919921875,
+          54.425201416015625,
+          542.8346557617188
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "budget_planning",
+        "type": "CheckBox",
+        "rect": [
+          164.40939331054688,
+          530.92919921875,
+          176.31500244140625,
+          542.8346557617188
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "budget_need_rec",
+        "type": "CheckBox",
+        "rect": [
+          274.9606018066406,
+          530.92919921875,
+          286.8660888671875,
+          542.8346557617188
+        ],
+        "font": "Helvetica",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "decision_maker",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          570.3306884765625,
+          290.55120849609375,
+          587.3385620117188
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "preferred_contact",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          570.3306884765625,
+          552.7559204101562,
+          587.3385620117188
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "success_criteria",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          651.968505859375,
+          552.7559204101562,
+          688.81884765625
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "additional_notes",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          711.49609375,
+          552.7559204101562,
+          756.8504028320312
+        ],
+        "font": "Helvetica",
+        "size": 8.0,
+        "on": null
+      }
+    ]
+  },
+  "SAMPLES/CHUCHU_AI_STUDIO_Client_Project_Inquiry_Form_SAMPLE_FILLED.pdf": {
+    "sha256": "419f9fa18b29c52f0067922f10351de0b7674e54d30eb705586a159c9007fc92",
+    "fields": [
+      {
+        "page": 1,
+        "name": "client_name",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          156.47247314453125,
+          203.14959716796875,
+          173.4803466796875
+        ],
+        "font": "Helv",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "company_name",
+        "type": "Text",
+        "rect": [
+          217.3227996826172,
+          156.47247314453125,
+          377.9527893066406,
+          173.4803466796875
+        ],
+        "font": "Helv",
+        "size": 7.2,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "job_title",
+        "type": "Text",
+        "rect": [
+          392.1260070800781,
+          156.47247314453125,
+          552.7559204101562,
+          173.4803466796875
+        ],
+        "font": "Helv",
+        "size": 7.2,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_email",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          198.9921875,
+          290.55120849609375,
+          216.0
+        ],
+        "font": "Helv",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "client_phone",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          198.9921875,
+          552.7559204101562,
+          216.0
+        ],
+        "font": "Helv",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "svc_poc",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          261.63775634765625,
+          54.425201416015625,
+          273.54327392578125
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_mvp",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          288.0,
+          54.425201416015625,
+          299.90545654296875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_prod",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          314.3621826171875,
+          54.425201416015625,
+          326.26776123046875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_ai",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          340.724365234375,
+          54.425201416015625,
+          352.6299743652344
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_custom",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          367.086669921875,
+          54.425201416015625,
+          378.9921569824219
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "svc_unsure",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          393.4488830566406,
+          54.425201416015625,
+          405.3543701171875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "product_summary",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          469.9842834472656,
+          552.7559204101562,
+          509.6692810058594
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "problem_users",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          532.346435546875,
+          552.7559204101562,
+          572.031494140625
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      },
+      {
+        "page": 1,
+        "name": "platform_ios",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          623.9054565429688,
+          54.425201416015625,
+          635.81103515625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_android",
+        "type": "CheckBox",
+        "rect": [
+          164.40939331054688,
+          623.9054565429688,
+          176.31500244140625,
+          635.81103515625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_web",
+        "type": "CheckBox",
+        "rect": [
+          269.2912902832031,
+          623.9054565429688,
+          281.1968994140625,
+          635.81103515625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "platform_unsure",
+        "type": "CheckBox",
+        "rect": [
+          360.0,
+          623.9054565429688,
+          371.9054870605469,
+          635.81103515625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_accounts",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          669.2598876953125,
+          54.425201416015625,
+          681.1654052734375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_payments",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          669.2598876953125,
+          224.50390625,
+          681.1654052734375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_ai",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          669.2598876953125,
+          394.58270263671875,
+          681.1654052734375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_voice",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          689.1023559570312,
+          54.425201416015625,
+          701.0078735351562
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_location",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          689.1023559570312,
+          224.50390625,
+          701.0078735351562
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_media",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          689.1023559570312,
+          394.58270263671875,
+          701.0078735351562
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_notifications",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          708.9448852539062,
+          54.425201416015625,
+          720.850341796875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_bluetooth",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          708.9448852539062,
+          224.50390625,
+          720.850341796875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_offline",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          708.9448852539062,
+          394.58270263671875,
+          720.850341796875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_admin",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          728.787353515625,
+          54.425201416015625,
+          740.69287109375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_api",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          728.787353515625,
+          224.50390625,
+          740.69287109375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_analytics",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          728.787353515625,
+          394.58270263671875,
+          740.69287109375
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_other",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          748.6299438476562,
+          54.425201416015625,
+          760.5354614257812
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 1,
+        "name": "feat_other_text",
+        "type": "Text",
+        "rect": [
+          141.7322998046875,
+          749.1968383789062,
+          552.7559204101562,
+          766.2047119140625
+        ],
+        "font": "Helv",
+        "size": 7.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "must_haves",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          161.57476806640625,
+          552.7559204101562,
+          209.7637939453125
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "asset_logo",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          233.2913818359375,
+          54.425201416015625,
+          245.1968994140625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_design",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          233.2913818359375,
+          224.50390625,
+          245.1968994140625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_content",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          233.2913818359375,
+          394.58270263671875,
+          245.1968994140625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_domain",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          253.13385009765625,
+          54.425201416015625,
+          265.03936767578125
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_apple",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          253.13385009765625,
+          224.50390625,
+          265.03936767578125
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_google",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          253.13385009765625,
+          394.58270263671875,
+          265.03936767578125
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_api",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          272.97637939453125,
+          54.425201416015625,
+          284.88189697265625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_backend",
+        "type": "CheckBox",
+        "rect": [
+          212.59840393066406,
+          272.97637939453125,
+          224.50390625,
+          284.88189697265625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "asset_none",
+        "type": "CheckBox",
+        "rect": [
+          382.67718505859375,
+          272.97637939453125,
+          394.58270263671875,
+          284.88189697265625
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "ai_technical_goal",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          345.8267822265625,
+          552.7559204101562,
+          379.8425598144531
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "sensitive_yes",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          403.37005615234375,
+          54.425201416015625,
+          415.27557373046875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_no",
+        "type": "CheckBox",
+        "rect": [
+          113.38580322265625,
+          403.37005615234375,
+          125.29129791259766,
+          415.27557373046875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_unsure",
+        "type": "CheckBox",
+        "rect": [
+          178.58270263671875,
+          403.37005615234375,
+          190.4882049560547,
+          415.27557373046875
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "sensitive_notes",
+        "type": "Text",
+        "rect": [
+          269.2912902832031,
+          401.10235595703125,
+          552.7559204101562,
+          420.94488525390625
+        ],
+        "font": "Helv",
+        "size": 7.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "target_date",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          482.4566650390625,
+          290.55120849609375,
+          499.4645690917969
+        ],
+        "font": "Helv",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "budget_range",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          482.4566650390625,
+          552.7559204101562,
+          499.4645690917969
+        ],
+        "font": "Helv",
+        "size": 8.0,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "budget_approved",
+        "type": "CheckBox",
+        "rect": [
+          42.519691467285156,
+          530.92919921875,
+          54.425201416015625,
+          542.8346557617188
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "budget_planning",
+        "type": "CheckBox",
+        "rect": [
+          164.40939331054688,
+          530.92919921875,
+          176.31500244140625,
+          542.8346557617188
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "budget_need_rec",
+        "type": "CheckBox",
+        "rect": [
+          274.9606018066406,
+          530.92919921875,
+          286.8660888671875,
+          542.8346557617188
+        ],
+        "font": "Helv",
+        "size": 12.0,
+        "on": "Yes"
+      },
+      {
+        "page": 2,
+        "name": "decision_maker",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          570.3306884765625,
+          290.55120849609375,
+          587.3385620117188
+        ],
+        "font": "Helv",
+        "size": 7.2,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "preferred_contact",
+        "type": "Text",
+        "rect": [
+          304.7243957519531,
+          570.3306884765625,
+          552.7559204101562,
+          587.3385620117188
+        ],
+        "font": "Helv",
+        "size": 7.2,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "success_criteria",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          651.968505859375,
+          552.7559204101562,
+          688.81884765625
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      },
+      {
+        "page": 2,
+        "name": "additional_notes",
+        "type": "Text",
+        "rect": [
+          42.519691467285156,
+          711.49609375,
+          552.7559204101562,
+          756.8504028320312
+        ],
+        "font": "Helv",
+        "size": 7.3,
+        "on": null
+      }
+    ]
+  }
+}

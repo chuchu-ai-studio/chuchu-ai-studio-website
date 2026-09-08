@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "inquiry_master": "../templates/CHUCHU_AI_STUDIO_Client_Project_Inquiry_Form_With_Address.pdf",
+  "original_inquiry_master": "../templates/CHUCHU_AI_STUDIO_Client_Project_Inquiry_Form.pdf",
+  "agreement_master": "../templates/CHUCHU_AI_STUDIO_Master_Service_Agreement_Fillable.pdf",
+  "original_master_sha256": {
+    "inquiry": "65da2db1f495264dcb39ffc279df2dd99d4621c7814220e0386a1ed94e7e2c9d",
+    "agreement": "976df35fa1b3af68e0c807e79c1bcd608ccd373ca55ccdb4ea57afc7171958b4"
+  },
+  "inquiry_required_schema": {
+    "client_name": "Text",
+    "company_name": "Text",
+    "job_title": "Text",
+    "client_email": "Text",
+    "client_phone": "Text",
+    "svc_poc": "CheckBox",
+    "svc_mvp": "CheckBox",
+    "svc_prod": "CheckBox",
+    "svc_ai": "CheckBox",
+    "svc_custom": "CheckBox",
+    "svc_unsure": "CheckBox",
+    "product_summary": "Text",
+    "problem_users": "Text",
+    "platform_ios": "CheckBox",
+    "platform_android": "CheckBox",
+    "platform_web": "CheckBox",
+    "platform_unsure": "CheckBox",
+    "feat_accounts": "CheckBox",
+    "feat_payments": "CheckBox",
+    "feat_ai": "CheckBox",
+    "feat_voice": "CheckBox",
+    "feat_location": "CheckBox",
+    "feat_media": "CheckBox",
+    "feat_notifications": "CheckBox",
+    "feat_bluetooth": "CheckBox",
+    "feat_offline": "CheckBox",
+    "feat_admin": "CheckBox",
+    "feat_api": "CheckBox",
+    "feat_analytics": "CheckBox",
+    "feat_other": "CheckBox",
+    "feat_other_text": "Text",
+    "must_haves": "Text",
+    "asset_logo": "CheckBox",
+    "asset_design": "CheckBox",
+    "asset_content": "CheckBox",
+    "asset_domain": "CheckBox",
+    "asset_apple": "CheckBox",
+    "asset_google": "CheckBox",
+    "asset_api": "CheckBox",
+    "asset_backend": "CheckBox",
+    "asset_none": "CheckBox",
+    "ai_technical_goal": "Text",
+    "sensitive_yes": "CheckBox",
+    "sensitive_no": "CheckBox",
+    "sensitive_unsure": "CheckBox",
+    "sensitive_notes": "Text",
+    "target_date": "Text",
+    "budget_range": "Text",
+    "budget_approved": "CheckBox",
+    "budget_planning": "CheckBox",
+    "budget_need_rec": "CheckBox",
+    "decision_maker": "Text",
+    "preferred_contact": "Text",
+    "success_criteria": "Text",
+    "additional_notes": "Text"
+  },
+  "agreement_required_fields": [
+    "additional_terms",
+    "agreement_no",
+    "beta_25",
+    "client_address",
+    "client_company",
+    "client_date",
+    "client_email",
+    "client_name",
+    "client_phone",
+    "client_rep",
+    "client_signature",
+    "client_title",
+    "currency",
+    "deliverables",
+    "delivery_date",
+    "deposit_30",
+    "development_30",
+    "effective_date",
+    "excluded_features",
+    "handover_15",
+    "included_features",
+    "jurisdiction",
+    "payment_currency",
+    "platforms",
+    "project_name",
+    "project_objective",
+    "project_type",
+    "provider_address",
+    "provider_email",
+    "provider_legal",
+    "start_date",
+    "studio_date",
+    "studio_email",
+    "studio_name",
+    "studio_signature",
+    "studio_title",
+    "total_fee"
+  ],
+  "direct": {
+    "client_name": [
+      "client_rep",
+      "client_name"
+    ],
+    "company_name": [
+      "client_company"
+    ],
+    "job_title": [
+      "client_title"
+    ],
+    "client_email": [
+      "client_email"
+    ],
+    "client_phone": [
+      "client_phone"
+    ],
+    "client_address": [
+      "client_address"
+    ]
+  },
+  "company_fallback": "client_name",
+  "project_types": {
+    "svc_poc": "Prototype / Proof of Concept",
+    "svc_mvp": "Mobile MVP",
+    "svc_prod": "Production-Ready Mobile MVP",
+    "svc_ai": "AI-Powered MVP",
+    "svc_custom": "Complex / Custom Product",
+    "svc_unsure": "Not sure — CHUCHU AI STUDIO to recommend"
+  },
+  "platforms": {
+    "platform_ios": "iPhone / iOS",
+    "platform_android": "Android",
+    "platform_web": "Web",
+    "platform_unsure": "Not sure"
+  },
+  "features": {
+    "feat_accounts": "User accounts / login",
+    "feat_payments": "Payments / subscriptions",
+    "feat_ai": "AI / chatbot",
+    "feat_voice": "Voice / speech",
+    "feat_location": "Maps / location",
+    "feat_media": "Camera / photos / video",
+    "feat_notifications": "Notifications",
+    "feat_bluetooth": "Bluetooth / hardware",
+    "feat_offline": "Offline use",
+    "feat_admin": "Admin dashboard",
+    "feat_api": "API / software integration",
+    "feat_analytics": "Analytics / reporting",
+    "feat_other": "Other requested features"
+  },
+  "assets": {
+    "asset_logo": "Logo / branding",
+    "asset_design": "Designs",
+    "asset_content": "Content",
+    "asset_domain": "Domain / hosting",
+    "asset_apple": "Apple developer account",
+    "asset_google": "Google Play account",
+    "asset_api": "APIs",
+    "asset_backend": "Backend",
+    "asset_none": "None yet"
+  },
+  "draft_sources": {
+    "project_objective": [
+      "product_summary",
+      "problem_users"
+    ],
+    "included_features": [
+      "must_haves",
+      "feat_other_text",
+      "ai_technical_goal"
+    ],
+    "additional_terms": [
+      "sensitive_notes",
+      "success_criteria",
+      "additional_notes"
+    ]
+  },
+  "review_only": [
+    "budget_range",
+    "target_date",
+    "decision_maker",
+    "preferred_contact"
+  ],
+  "studio_controlled": [
+    "agreement_no",
+    "effective_date",
+    "jurisdiction",
+    "currency",
+    "provider_legal",
+    "provider_address",
+    "provider_email",
+    "studio_name",
+    "studio_title",
+    "studio_email",
+    "studio_signature",
+    "studio_date",
+    "project_name",
+    "excluded_features",
+    "deliverables",
+    "start_date",
+    "delivery_date",
+    "total_fee",
+    "payment_currency"
+  ],
+  "always_blank": [
+    "client_signature",
+    "client_date"
+  ],
+  "milestones": {
+    "deposit_30": "0.30",
+    "development_30": "0.30",
+    "beta_25": "0.25",
+    "handover_15": "0.15"
+  },
+  "required_client_details": [
+    "client_rep",
+    "client_company",
+    "client_title",
+    "client_email",
+    "client_phone",
+    "client_address"
+  ],
+  "required_studio_details": [
+    "agreement_no",
+    "effective_date",
+    "jurisdiction",
+    "currency",
+    "provider_legal",
+    "provider_address",
+    "provider_email",
+    "studio_name",
+    "studio_title",
+    "studio_email",
+    "project_name",
+    "excluded_features",
+    "deliverables",
+    "start_date",
+    "delivery_date",
+    "total_fee",
+    "payment_currency"
+  ]
+}
